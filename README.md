@@ -1,6 +1,7 @@
 # teched-dat265
 ### *Description*
 This repository contains the results of varius exercises in the TechEd session DAT265.
+So when you need to speed up you can download the solution and import it inot EA-Desginer-
 
 ### Requirements
 You need to have access to an Enterprise Architecture Designer
@@ -19,3 +20,4 @@ older version of EA-Designer do have a errorous generation of assocciation. Make
 *it is not allowed to have the same name for column and join*
 
 ### License
+Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
