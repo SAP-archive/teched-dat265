@@ -16,7 +16,8 @@ You should download this repository and unpack it.
 The files from the single sections can be imported into EA-Desiger using the import function in the **Browse** mode
 ### Known Issues
 older version of EA-Designer do have a errorous generation of assocciation. Make sure relation columns are in the form
- - targettable_1 targettable   the generator of oder version do targettable targettable
+ - right version "targettable_1" "targettable"   the generator of oder version do the 
+ - wrong version "targettable"   "targettable"
 *it is not allowed to have the same name for column and join*
 
 ### License
