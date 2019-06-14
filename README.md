@@ -1,7 +1,7 @@
 # teched-dat265
-### *Description*
-This repository contains the results of various exercises in the TechEd session DAT265.
-So when you need to speed up you can download the solution and import it inot EA-Desginer-
+### Description
+This repository contains the results of various exercises in the SAP TechEd session DAT265.
+So when you need to speed up you can download the solution and import it into EADesginer.
 
 ### Requirements
 You need to have access to an SAP Enterprise Architecture Designer
@@ -22,4 +22,4 @@ it is not allowed to have the same name for column and join
 
 
 ### License
-Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
+Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE](LICENSE) file.
