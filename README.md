@@ -22,3 +22,5 @@ it is not allowed to have the same name for column and join
 
 ### License
 Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched-dat265)](https://api.reuse.software/info/github.com/SAP-samples/teched-dat265)
